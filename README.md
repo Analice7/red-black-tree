@@ -47,11 +47,11 @@ Realiza rotações simples para restaurar o balanceamento da árvore.
 
 Para compilar o código, use um compilador como `gcc`:
 ```sh
-gcc main.c rb.c -o rb_tree
+gcc -o rb main.c rb.c
 ```
 Para executar:
 ```sh
-./rb_tree
+./rb
 ```
 
 ## Autor
